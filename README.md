@@ -1,18 +1,16 @@
 # xps-smart-origin
 Origin script (Labtalk + Embedded Python) to import and analyze XPS data generated from the SMART software.
 
-- [xps-smart-origin](#xps-smart-origin)
-  * [Requirements:](#requirements-)
-  * [How to install SMART:](#how-to-install-smart-)
-  * [How to generate: 2) dat files from the dispersive plane HDF-4 files of SMART(IDL):](#how-to-generate--2--dat-files-from-the-dispersive-plane-hdf-4-files-of-smart-idl--)
-  * [How to install: 4) Embedded (origin) Python packages:](#how-to-install--4--embedded--origin--python-packages-)
-  * [How to run for the first time:](#how-to-run-for-the-first-time-)
-  * [How to run for the next times:](#how-to-run-for-the-next-times-)
-  * [Successfull run:](#successfull-run-)
-  * [How to change the input parameters for data analysis:](#how-to-change-the-input-parameters-for-data-analysis-)
-  * [Common issues:](#common-issues-)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+## Table of contents:
+- [Requirements:](#requirements-)
+- [How to install SMART:](#how-to-install-smart-)
+- [How to generate: 2) dat files from the dispersive plane HDF-4 files of SMART(IDL):](#how-to-generate--2--dat-files-from-the-dispersive-plane-hdf-4-files-of-smart-idl--)
+- [How to install: 4) Embedded (origin) Python packages:](#how-to-install--4--embedded--origin--python-packages-)
+- [How to run for the first time:](#how-to-run-for-the-first-time-)
+- [How to run for the next times:](#how-to-run-for-the-next-times-)
+- [Successfull run:](#successfull-run-)
+- [How to change the input parameters for data analysis:](#how-to-change-the-input-parameters-for-data-analysis-)
+- [Common issues:](#common-issues-)
 
 ## Requirements:
 1) SMART(IDL).
