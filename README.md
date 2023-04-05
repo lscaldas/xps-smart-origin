@@ -2,9 +2,7 @@
 
 Origin script (Labtalk + Embedded Python) to import and analyze XPS data generated from the SMART software. By using this script you can shorten your analysis time from 1 day to 10 minutes.
 
-## Table of contents
-
-- [Table of contents](#table-of-contents-)
+- [Table of contents](#table-of-contents)
 - [Author](#author)
 - [Changelog](#changelog)
 - [Requirements](#requirements)
@@ -15,6 +13,7 @@ Origin script (Labtalk + Embedded Python) to import and analyze XPS data generat
 - [How to run for the next time](#how-to-run-for-the-next-time)
 - [Successfull run](#successfull-run)
 - [How to change the input parameters for data analysis](#how-to-change-the-input-parameters-for-data-analysis)
+- [Test before beamtime](#test-before-beamtime)
 - [Common issues](#common-issues)
 
 ## Author
@@ -101,6 +100,10 @@ A successfull run will create a workbook with 4 spreadsheets and a scriptwindow 
 
 You can simply alter any number and all the data will be updated automalically in the other spreadsheets. You should change the ug value, photon energy, e-beam, and time columns. The other columns change the correction factors we use to treat the raw data. Ask for advice, or watch the youtube videos.<br>  
 ![image](https://user-images.githubusercontent.com/42618468/230059556-79e9f563-5e17-43bc-a9b2-2ddd35e6effb.png)<br>  
+
+## Test before beamtime
+
+You can test the script before your beamtime, by using the dat files inside the dat folder in the code section.
 
 ## Common issues
 
