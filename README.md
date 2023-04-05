@@ -1,13 +1,6 @@
 # xps-smart-origin
 Origin script (Labtalk + Embedded Python) to import and analyze XPS data generated from the SMART software.
 
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
-
 ## Requirements:
 1) SMART(IDL).
 2) dat files generated through SMART (analysis --> dispersive plane --> with saving single cross-sections.
