@@ -43,7 +43,7 @@ By using these scripts, the author should be included in the Acknowledgments sec
   f) scipy<br>
   g) six<br>  
 5) Latest version of "XPS_import_v" coppied into your originlab user files folder. For instance: "\Documents\OriginLab\User Files". 
-6) Follow the How to run for the first time section of this README.
+6) Follow the - [How to run for the first time](#how-to-run-for-the-first-time).
 
 ## How to install SMART
 
