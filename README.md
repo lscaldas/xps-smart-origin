@@ -5,14 +5,14 @@ Origin script (Labtalk + Embedded Python) to import and analyze XPS data generat
 1) SMART(IDL).
 2) dat files generated through SMART (analysis --> dispersive plane --> with saving single cross-sections.
 3) Origin pro 2021b (9.85) and above. https://www.originlab.com/index.aspx?go=SUPPORT&pid=3325
-4) Embedded (origin) Python packages:<br>  
-  a) originpro <br>  
-  b) numpy<br>  
-  c) pandas<br>  
-  d) python-dateutil<br>  
-  e) pytz<br>  
-  f) scipy<br>  
-  g) six<br>  
+4) Embedded (origin) Python packages:<br>
+  a) originpro<br>
+  b) numpy<br>
+  c) pandas<br>
+  d) python-dateutil<br>
+  e) pytz<br>
+  f) scipy<br>
+  g) six<br>    
 5) Latest version of "XPS_import_v" coppied into your originlab user files folder. For instance: "\Documents\OriginLab\User Files". 
 
 ## How to install 4) Embedded (origin) Python packages:
