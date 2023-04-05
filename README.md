@@ -63,8 +63,8 @@ A successfull run will create a workbook with 4 spreadsheets and a scriptwindow 
 4) The fourth spreadsheet is the parameters one, in which you can add the values from the labbook. Please, dont add new columns, or new files. Read the next section on how to alter these values.
 
 ## How to change the input parameters for data analysis:
-You can simply alter any number and all the data will be updated automalically in the other spreadsheets. You should change the ug value, photon energy, e-beam, and time columns. The other columns change the correction factors we use to treat the raw data. Ask for advice, or watch the youtube videos.
-![image](https://user-images.githubusercontent.com/42618468/230059556-79e9f563-5e17-43bc-a9b2-2ddd35e6effb.png)
+You can simply alter any number and all the data will be updated automalically in the other spreadsheets. You should change the ug value, photon energy, e-beam, and time columns. The other columns change the correction factors we use to treat the raw data. Ask for advice, or watch the youtube videos.<br>  
+![image](https://user-images.githubusercontent.com/42618468/230059556-79e9f563-5e17-43bc-a9b2-2ddd35e6effb.png)<br>  
 
 ## Common issues:
 1) The number of files you can import is limited. With each file being a single acquisition. For instance we can measure 5 images of 1s each. Therefore these data will contain 5 files. The maximum value of files you can import for "XPS_import_v10" is 210.
