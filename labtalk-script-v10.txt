@@ -1,0 +1,10 @@
+run -pyf XPS_import_v10.py;
+Sparklines iw:=Result_BE_correction! sel:=0 c1:=1 c2:=0;
+wrowhide irng:=([1]:[250],[1150]:[1599]) operation:=0;
+page.active = 3;
+loop(ii, 2, wks.ncols)
+{
+	Col($(ii))[D2]$ = Col($(ii))[D2]$;
+                   Col($(ii))[D3]$ = Col($(ii))[D3]$;
+}
+Sparklines  sel:=0 c1:=1 c2:=0 ;
