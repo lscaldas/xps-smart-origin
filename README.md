@@ -4,6 +4,7 @@ Origin script (Labtalk + Embedded Python) to import and analyze XPS data generat
 https://www.youtube.com/watch?v=JYyRREdR35U&list=PLHerV2cxrTb8_BMmp7CxpvhuTCDJTOV3S
 
 ## Table of contents
+
 - [Table of contents](#table-of-contents)
 - [Author](#author)
 - [Changelog](#changelog)
