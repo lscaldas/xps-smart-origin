@@ -25,7 +25,7 @@ c) Download IDL 6.1.<br>
 d) If these steps don´t work, contact us.<br>
 2) Copy and paste the "Start.sav" (SMART) in any folder of your computer.
 
-## How to generate 2) dat files from the dispersive plane HDF-4 files of SMART(IDL):
+## How to generate: 2) dat files from the dispersive plane HDF-4 files of SMART(IDL):
 Follow the video tutorials in:
 https://www.youtube.com/watch?v=JYyRREdR35U&list=PLHerV2cxrTb8_BMmp7CxpvhuTCDJTOV3S
 
