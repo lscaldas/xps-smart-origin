@@ -7,7 +7,7 @@ Origin script (Labtalk + Embedded Python) to import and analyze XPS data generat
 - [How to generate: 2) dat files from the dispersive plane HDF-4 files of SMART(IDL):](#how-to-generate--2--dat-files-from-the-dispersive-plane-hdf-4-files-of-smart-idl--)
 - [How to install: 4) Embedded (origin) Python packages:](#how-to-install--4--embedded--origin--python-packages-)
 - [How to run for the first time:](#how-to-run-for-the-first-time-)
-- [How to run for the next times:](#how-to-run-for-the-next-times-)
+- [How to run for the next time:](#how-to-run-for-the-next-time-)
 - [Successfull run:](#successfull-run-)
 - [How to change the input parameters for data analysis:](#how-to-change-the-input-parameters-for-data-analysis-)
 - [Common issues:](#common-issues-)
@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=JYyRREdR35U&list=PLHerV2cxrTb8_BMmp7CxpvhuTCDJTO
 6) Press Ok to save the theme.
 7) Press Ok to to run the program.
 
-## How to run for the next times:
+## How to run for the next time:
 1) Origin--> Import Multiple ASCII.<br> 
 2) Go to the folder with your DAT files--> Select them all--> Add File(s).<br> 
 3) Only if it was not saved in default, Select the theme that you saved.
