@@ -2,7 +2,6 @@
 
 Origin script (Labtalk + Embedded Python) to import and analyze XPS data generated from the SMART software. By using this script you can shorten your analysis time from 1 day to 10 minutes.
 
-
 ## Table of contents
 
 - [Table of contents](#table-of-contents-)
@@ -17,8 +16,6 @@ Origin script (Labtalk + Embedded Python) to import and analyze XPS data generat
 - [Successfull run](#successfull-run)
 - [How to change the input parameters for data analysis](#how-to-change-the-input-parameters-for-data-analysis)
 - [Common issues](#common-issues)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Author
 
