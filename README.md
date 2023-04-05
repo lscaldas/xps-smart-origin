@@ -103,7 +103,7 @@ You can simply alter any number and all the data will be updated automalically i
 
 ## Test before beamtime
 
-You can test the script before your beamtime, by using the dat files inside the dat folder in the code section.
+You can test the script before your beamtime, by using the dat files inside the test_files in the code section.
 
 ## Common issues
 
