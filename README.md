@@ -1,7 +1,9 @@
 # xps-smart-origin
+
 Origin script (Labtalk + Embedded Python) to import and analyze XPS data generated from the SMART software.
 
 ## Table of contents:
+
 - [Requirements](#requirements-)
 - [How to install SMART](#how-to-install-smart-)
 - [How to generate: 2) dat files from the dispersive plane HDF-4 files of SMART(IDL)](#how-to-generate--2--dat-files-from-the-dispersive-plane-hdf-4-files-of-smart-idl--)
@@ -13,6 +15,7 @@ Origin script (Labtalk + Embedded Python) to import and analyze XPS data generat
 - [Common issues](#common-issues-)
 
 ## Author
+
 1) The different scripts to import, export, and analyse data were written by:<br>
 Lucas de Souza Caldas <br>
 ldesouzacaldas@gmail.com<br>
@@ -21,9 +24,10 @@ In the case of using these scripts, the author should be in the Acknowledgments 
 
 ## Changelog
 
-
+-v10 introduced the ug correction calculated by Thomas Schmidt (which is the default selection).
 
 ## Requirements
+
 1) SMART(IDL).
 2) dat files generated through SMART (analysis --> dispersive plane --> with saving single cross-sections.
 3) Origin pro 2021b (9.85) and above. https://www.originlab.com/index.aspx?go=SUPPORT&pid=3325
@@ -39,6 +43,7 @@ In the case of using these scripts, the author should be in the Acknowledgments 
 6) Follow the How to run for the first time section of this README.
 
 ## How to install SMART
+
 1) Install the IDL virtual machine 6.1.<br>
 a) Create an account at:<br>
 https://www.l3harrisgeospatial.com/Company/Create-Account?returnurl=%2fProduct-Downloads<br>
@@ -48,16 +53,19 @@ d) If these steps don´t work, contact us.<br>
 2) Copy and paste the "Start.sav" (SMART) in any folder of your computer.
 
 ## How to generate: 2) dat files from the dispersive plane HDF-4 files of SMART(IDL)
+
 Follow the video tutorials in:
 https://www.youtube.com/watch?v=JYyRREdR35U&list=PLHerV2cxrTb8_BMmp7CxpvhuTCDJTOV3S
 
 ## How to install: 4) Embedded (origin) Python packages
+
 1) Origin-->Connectivity tab on origin-->Python Packages.<br>  
 ![image](https://user-images.githubusercontent.com/42618468/230044368-e53bc0a3-60bb-4c04-a5e9-bcf2cea19bda.png)<br>  
 2) Install-->Package Names-->Follow the blue-worded-instruction-->Ok.<br>  
 ![image](https://user-images.githubusercontent.com/42618468/230045835-3f662a4d-5688-4553-8610-0e64ac552e9f.png)<br>  
 
 ## How to run for the first time
+
 1) Origin--> Import Multiple ASCII.<br> 
 ![image](https://user-images.githubusercontent.com/42618468/230052843-2ff83562-2a3c-45f9-a10f-9da7e80456ff.png)<br>  
 2) Go to the folder with your DAT files--> Select them all--> Add File(s).<br> 
@@ -71,12 +79,14 @@ https://www.youtube.com/watch?v=JYyRREdR35U&list=PLHerV2cxrTb8_BMmp7CxpvhuTCDJTO
 7) Press Ok to to run the program.
 
 ## How to run for the next time
+
 1) Origin--> Import Multiple ASCII.<br> 
 2) Go to the folder with your DAT files--> Select them all--> Add File(s).<br> 
 3) Only if it was not saved in default, Select the theme that you saved.
 4) Press Ok to to run the program.
 
 ## Successfull run
+
 A successfull run will create a workbook with 4 spreadsheets and a scriptwindow saying the number of columns which were created: 
 1) The first one contains the raw data (only y values). From this spreadsheet you can select the columns which contain the e-beam information. You can copy these columns to a new workbook, and create an x axis, by typing in "F(X)=" i-1 . You can plot these data (after averaging-see youtube videos) and get the e-beam value.
 ![image](https://user-images.githubusercontent.com/42618468/230058626-e5046ac4-cc88-4743-8cae-55f14dc8fcb9.png)
@@ -85,8 +95,10 @@ A successfull run will create a workbook with 4 spreadsheets and a scriptwindow 
 4) The fourth spreadsheet is the parameters one, in which you can add the values from the labbook. Please, dont add new columns, or new files. Read the next section on how to alter these values.
 
 ## How to change the input parameters for data analysis
+
 You can simply alter any number and all the data will be updated automalically in the other spreadsheets. You should change the ug value, photon energy, e-beam, and time columns. The other columns change the correction factors we use to treat the raw data. Ask for advice, or watch the youtube videos.<br>  
 ![image](https://user-images.githubusercontent.com/42618468/230059556-79e9f563-5e17-43bc-a9b2-2ddd35e6effb.png)<br>  
 
 ## Common issues
+
 1) The number of files you can import is limited. With each file being a single acquisition. For instance we can measure 5 images of 1s each. Therefore these data will contain 5 files. The maximum value of files you can import for "XPS_import_v10" is 210.
