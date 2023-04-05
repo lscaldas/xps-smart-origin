@@ -21,7 +21,7 @@ In the case of using these scripts, the author should be in the Acknowledgments 
 
 ## Changelog
 
-$ git log --pretty="- %s"
+
 
 ## Requirements
 1) SMART(IDL).
