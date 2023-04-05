@@ -30,10 +30,10 @@ Follow the video tutorials in:
 https://www.youtube.com/watch?v=JYyRREdR35U&list=PLHerV2cxrTb8_BMmp7CxpvhuTCDJTOV3S
 
 ## How to install: 4) Embedded (origin) Python packages:
-1) Origin-->Connectivity tab on origin-->Python Packages<br>  
-![image](https://user-images.githubusercontent.com/42618468/230044368-e53bc0a3-60bb-4c04-a5e9-bcf2cea19bda.png)
-2) Install-->Package Names-->Follow the blue-worded-instruction-->Ok<br>  
-![image](https://user-images.githubusercontent.com/42618468/230045835-3f662a4d-5688-4553-8610-0e64ac552e9f.png)
+1) Origin-->Connectivity tab on origin-->Python Packages.<br>  
+![image](https://user-images.githubusercontent.com/42618468/230044368-e53bc0a3-60bb-4c04-a5e9-bcf2cea19bda.png)<br>  
+2) Install-->Package Names-->Follow the blue-worded-instruction-->Ok.<br>  
+![image](https://user-images.githubusercontent.com/42618468/230045835-3f662a4d-5688-4553-8610-0e64ac552e9f.png)<br>  
 
 ## How to run for the first time:
 1) Origin--> Import Multiple ASCII.<br> 
