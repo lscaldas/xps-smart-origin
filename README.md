@@ -19,7 +19,7 @@ Origin script (Labtalk + Embedded Python) to import and analyze XPS data generat
 
 ## Author
 
-1) The different scripts to import, export, and analyse data were written by:<br>
+1) The different scripts to import, export, and analyze data were written by:<br>
 Lucas de Souza Caldas <br>
 ldesouzacaldas@gmail.com<br>
 In the case of using these scripts, the author should be in the Acknowledgments section of your paper. In the case of a more direct contribution, the author should be included as an author in your upcoming paper.
