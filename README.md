@@ -12,7 +12,7 @@ Origin script (Labtalk + Embedded Python) to import and analyze XPS data generat
   d) python-dateutil<br>
   e) pytz<br>
   f) scipy<br>
-  g) six<br>    
+  g) six<br>  
 5) Latest version of "XPS_import_v" coppied into your originlab user files folder. For instance: "\Documents\OriginLab\User Files". 
 
 ## How to install 4) Embedded (origin) Python packages:
