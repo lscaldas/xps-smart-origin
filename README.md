@@ -1,6 +1,7 @@
 # xps-smart-origin
 
-Origin script (Labtalk + Embedded Python) to import and analyze XPS data generated from the SMART software. By using this script you can shorten your analysis time from 1 day to 10 minutes.
+Origin script (Labtalk + Embedded Python) to import and analyze XPS data generated from the SMART software. By using this script you can shorten your analysis time from 1 day to 10 minutes. To learn how to analyze your data, please watch the tutorial videos:<br>  
+https://www.youtube.com/watch?v=JYyRREdR35U&list=PLHerV2cxrTb8_BMmp7CxpvhuTCDJTOV3S
 
 - [Table of contents](#table-of-contents)
 - [Author](#author)
