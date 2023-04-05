@@ -36,10 +36,10 @@ https://www.youtube.com/watch?v=JYyRREdR35U&list=PLHerV2cxrTb8_BMmp7CxpvhuTCDJTO
 ![image](https://user-images.githubusercontent.com/42618468/230045835-3f662a4d-5688-4553-8610-0e64ac552e9f.png)
 
 ## How to run for the first time:
-1) Origin--> Import Multiple ASCII<br> 
-![image](https://user-images.githubusercontent.com/42618468/230052843-2ff83562-2a3c-45f9-a10f-9da7e80456ff.png)<br>  
-2) Go to the folder with your DAT files--> Select them all--> Add File(s)<br> 
-![image](https://user-images.githubusercontent.com/42618468/230053332-b6a1b302-e8d4-492b-bd6b-37358518aa10.png)<br>  
+1) Origin--> Import Multiple ASCII.<br> 
+![image](https://user-images.githubusercontent.com/42618468/230052843-2ff83562-2a3c-45f9-a10f-9da7e80456ff.png).<br>  
+2) Go to the folder with your DAT files--> Select them all--> Add File(s).<br> 
+![image](https://user-images.githubusercontent.com/42618468/230053332-b6a1b302-e8d4-492b-bd6b-37358518aa10.png).<br>  
 3) Change the default settings to the ones highlighted by red boxes.
 4) Add the "labtalk-script-v" in the input box (Script after All files Imported). Be aware to use the same version as the "XPS_import_v".
 ![image](https://user-images.githubusercontent.com/42618468/230055577-5e2cd8f0-66c4-4c8f-b6cb-f4d6c6c9bb89.png)<br>  
@@ -49,9 +49,9 @@ https://www.youtube.com/watch?v=JYyRREdR35U&list=PLHerV2cxrTb8_BMmp7CxpvhuTCDJTO
 7) Press Ok to to run the program.
 
 ## How to run for the next times:
-1) Origin--> Import Multiple ASCII<br> 
-2) Go to the folder with your DAT files--> Select them all--> Add File(s)<br> 
-3) Only if it was not saved in default, Select the theme that you saved
+1) Origin--> Import Multiple ASCII.<br> 
+2) Go to the folder with your DAT files--> Select them all--> Add File(s).<br> 
+3) Only if it was not saved in default, Select the theme that you saved.
 4) Press Ok to to run the program.
 
 ## Successfull run:
