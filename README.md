@@ -40,14 +40,15 @@ By using these scripts, the author should be included in the Acknowledgments sec
 3) Origin pro 2021b (9.85) and above. https://www.originlab.com/index.aspx?go=SUPPORT&pid=3325
 4) Embedded (origin) Python packages:<br>
   a) originpro<br>
-  b) numpy<br>
-  c) pandas<br>
+  b) numpy (1.23.3) <br>
+  c) pandas (1.4.2) <br>
   d) python-dateutil<br>
   e) pytz<br>
   f) scipy<br>
   g) six<br>  
-5) Latest version of "XPS_import_v" coppied into your originlab user files folder. For instance: "\Documents\OriginLab\User Files". 
-6) Follow the - [How to run for the first time](#how-to-run-for-the-first-time).
+5) Latest version of "XPS_import_v" coppied into your originlab user files folder. For instance: "\Documents\OriginLab\User Files".
+6) The decimal symbol in the Region settings of windows must be set to . (dot). 
+7) Follow the - [How to run for the first time](#how-to-run-for-the-first-time).
 
 ## How to install SMART
 
@@ -66,10 +67,10 @@ https://www.youtube.com/watch?v=JYyRREdR35U&list=PLHerV2cxrTb8_BMmp7CxpvhuTCDJTO
 
 ## How to install: 4) Embedded (origin) Python packages
 
-1) Origin-->Connectivity tab on origin-->Python Packages.<br>  
-![image](https://user-images.githubusercontent.com/42618468/230044368-e53bc0a3-60bb-4c04-a5e9-bcf2cea19bda.png)<br>  
-2) Install-->Package Names-->Follow the blue-worded-instruction-->Ok.<br>  
-![image](https://user-images.githubusercontent.com/42618468/230045835-3f662a4d-5688-4553-8610-0e64ac552e9f.png)<br>  
+1) Origin-->Window tab on origin-->Command window.<br>  
+2) Paste the code bellow and press enter.<br>
+pip install pandas==1.4.2 numpy==1.23.3 --upgrade --no-cache-dir <br>
+![image](https://github.com/user-attachments/assets/45b119fd-5dc5-4224-837e-e663c1421805)<br>
 
 ## How to run for the first time
 
